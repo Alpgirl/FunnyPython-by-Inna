@@ -1,6 +1,3 @@
-import random
-from random import randint
-
 num_toguess = int(input("Какое число Вы загадали (от 1 до 100)? "))
 cnt = 0
 first, last = 1, 100
