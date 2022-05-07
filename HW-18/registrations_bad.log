@@ -1,0 +1,3 @@
+Василий test@test.ru  ValueError
+ test@yandex.ru 30 ValueError
+Василий testtest.ru 10 SyntaxError ValueError
